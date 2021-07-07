@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fnOcansey
-- 👀 I’m interested in geo-spatial application for water resources
+- 👀 I’m interested in geospatial application for water resources
 - 🌱 I have come to love python programming
 - 💞️ I’m looking to collaborate on earth observation products for sustainable development
 - 📫 How to reach me: fnocansey@gmail.com
